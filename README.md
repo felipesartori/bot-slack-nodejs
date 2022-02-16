@@ -1,0 +1,1 @@
+## Estudo feito utilizando nodejs para a criação de um bot para o Slack
